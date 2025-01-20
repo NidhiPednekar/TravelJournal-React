@@ -1,0 +1,56 @@
+.loc{
+  width:30px;
+  height:30px;
+  margin-left:10px;
+  margin-top:10px;
+  padding:0;
+  text-align: left;
+  justify-content: left;
+}
+
+.main{
+  width:1000px;
+  height:auto;
+justify-content: center;
+margin-left:290px;
+}
+
+.container{
+  box-shadow: 4px 4px 4px 0 rgba(128, 128, 128, 0.5);
+  margin:20px;
+  padding: 10px;
+}
+.mainImg{
+  border-radius: 1rem;
+  width:250px;
+  height:350px;
+  display:flex;
+  margin: 10px;
+}
+
+h1{
+  margin:10px;
+}
+
+h3{
+  padding: 10px;
+}
+p{
+  font-size: 23px;
+  padding-left: 10px;
+}
+
+span{
+  font-size: 26px;;
+}
+
+a{
+  padding-left: 20px;
+}
+
+
+
+
+
+
+

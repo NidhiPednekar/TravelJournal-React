@@ -1,0 +1,22 @@
+*{
+  margin: 0;
+}
+.navbar{
+  height:60px;
+  text-align: center;
+  justify-content: center;
+  background-color: brown;
+  color:whitesmoke;
+  font-size: 60px;
+  padding: 10px;
+  margin: 0;
+}
+
+.navbar img{
+  height:60px;
+}
+
+.container{
+  display:flex;
+  
+}
